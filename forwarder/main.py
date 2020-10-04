@@ -1,7 +1,7 @@
 from os import getenv
 
-from aiogram import Bot, Dispatcher
 from aiogram.types import Message
+from aiogram import Bot, Dispatcher
 from aiogram.utils.executor import start_polling
 
 
