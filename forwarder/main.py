@@ -6,7 +6,7 @@ from aiogram.utils.executor import start_polling
 
 
 TOKEN = getenv('BOT_TOKEN')
-response = 'Бот переехал на новый адрес @mznaim_bot.\nThe bot has moved to new address @zmanim_bot.'
+response = 'Бот переехал на новый адрес @zmanim_bot.\nThe bot has moved to new address @zmanim_bot.'
 
 bot = Bot(TOKEN)
 dp = Dispatcher(bot)
